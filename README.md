@@ -50,6 +50,15 @@ If something is not working as expected, inspect the logs :
 docker-compose logs -f
 ```
 
+### Test the installation and create the admin user
+Head to http://localhost:8081 (opens new window), the interface will prompt you to create a new admin user for Hume.
+Specify username and password. Please save them.
+
+### License installation
+After the admin creation you will be redirect to the login page, after the login you'll be redirect to the License page since the tool comes without license. 
+Please upload the file provided to you before the workshop. 
+
+
 ### Recommended memory settings
 
 #### Linux hosts
