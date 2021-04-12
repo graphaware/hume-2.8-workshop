@@ -18,7 +18,7 @@ The following procedure will install the necessary containers for running Hume:
 
 Plus other necessary services, such as:
 - Minio
-- Postgres
+- PostgreSQL
 
 ### Login to the GraphAware Docker registry
 
