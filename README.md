@@ -1,7 +1,6 @@
-# Workshop - NLP with GraphAware Hume
+# Workshop - GraphAware Hume
 
-This repository contains a trial version of Hume for the Nodes 2020 event. Participants will receive credentials through their registration that they have to use
-during the instructions described below.
+This repository contains a trial version of Hume 2.8 for workshop purposes. Participants will receive credentials to access the GraphAware Docker Registry.
 
 ## Requirements
 
@@ -10,12 +9,16 @@ during the instructions described below.
 
 ## Installation
 
-The following procedure will install the necessary containers for running Hume :
+The following procedure will install the necessary containers for running Hume:
 
 - Neo4j 4.1.2
 - Hume
 - Hume Entity Extraction Service
 - Hume Keyword Extraction Service
+
+Plus other necessary services, such as:
+- Minio
+- Postgres
 
 ### Login to the GraphAware Docker registry
 
